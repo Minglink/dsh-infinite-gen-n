@@ -2,7 +2,7 @@
 
 > DeepSeek Harness (DSH) 破甲插件。作者：无限一代至四代原作者（Minglink）。
 > **下载：https://openorigin.link/msg?id=192&share=1**
-> 论坛：https://openorigin.link/ · QQ 交流群：1135498706
+> 论坛：https://openorigin.link/ · QQ 交流群：1108766989
 > 许可：开源公益 · 仅供模型边界和研究使用 · 非商业
 
 ## 这是什么
